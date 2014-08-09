@@ -54,8 +54,8 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'ekommerce.dev',
-			'database'  => 'konga_customers',
+			'host'      => 'localhost',
+			'database'  => 'ek_products',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',
